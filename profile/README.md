@@ -6,19 +6,11 @@
 
 **Offensive DNA · Adversarial Validation · Defensive Operations**
 
-[![Website](https://img.shields.io/badge/Website-cross--intel.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cross-intel.com)
-[![Services](https://img.shields.io/badge/Services-Portfolio-1F2937?style=for-the-badge)](https://cross-intel.com/services)
-[![Regions](https://img.shields.io/badge/Global-EU%20·%20LATAM%20·%20BR%20·%20US%20·%20Middle%20East-16A34A?style=for-the-badge)](https://cross-intel.com)
+[![Website](https://img.shields.io/badge/Website-cross--intel.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cross-intel.com)[![Services](https://img.shields.io/badge/Services-Portfolio-1F2937?style=for-the-badge)](https://cross-intel.com/services)[![Regions](https://img.shields.io/badge/Global-EU%20·%20LATAM%20·%20BR%20·%20US%20·%20Middle%20East-16A34A?style=for-the-badge)](https://cross-intel.com)
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cross--intel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cross-intel/)[![Instagram](https://img.shields.io/badge/Instagram-cross__intel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cross_intel/)[![X](https://img.shields.io/badge/X-cross__intel-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cross_intel)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-cross--intel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cross-intel/)
-[![Instagram](https://img.shields.io/badge/Instagram-cross__intel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cross_intel/)
-[![X](https://img.shields.io/badge/X-cross__intel-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cross_intel)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=cross-intel&style=for-the-badge&color=16A34A&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=cross-intel&style=for-the-badge&color=C9A227&label=PROFILE+VIEWS)
 
 </div>
 
@@ -75,10 +67,7 @@ Whatever you need to defend and scale, **we design, operate, and validate it.**
 
 [![Get in touch](https://img.shields.io/badge/Get%20in%20touch-cross--intel.com-0A66C2?style=for-the-badge&logo=maildotru&logoColor=white)](https://cross-intel.com)
 
-[![Website](https://img.shields.io/badge/Website-1F2937?style=flat-square&logo=googlechrome&logoColor=white)](https://cross-intel.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cross-intel/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cross_intel/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/cross_intel)
+[![Website](https://img.shields.io/badge/Website-1F2937?style=flat-square&logo=googlechrome&logoColor=white)](https://cross-intel.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cross-intel/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cross_intel/)[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/cross_intel)
 
 *© CROSS-INTEL — Cybersecurity as a Service*
 
