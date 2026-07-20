@@ -16,6 +16,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-cross__intel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cross_intel/)
 [![X](https://img.shields.io/badge/X-cross__intel-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cross_intel)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=cross-intel&style=for-the-badge&color=16A34A&label=PROFILE+VIEWS)
+
 </div>
 
 ---
